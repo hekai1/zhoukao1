@@ -17,5 +17,14 @@
     "bugs": {
         "url": "https://github.com/hekai1/zhoukao1/issues"
     },
-    "homepage": "https://github.com/hekai1/zhoukao1#readme"
+    "homepage": "https://github.com/hekai1/zhoukao1#readme",
+    "dependencies": {
+        "gulp": "*",
+        "gulp-sass": "*",
+        "gulp-concat": "*",
+        "gulp-uglify": "*",
+        "gulp-htmlmin": "*",
+        "gulp-clean-css": "*",
+        "gulp-webserver": "*"
+    }
 }
