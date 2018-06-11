@@ -1,0 +1,21 @@
+{
+    "name": "zhoukao1",
+    "version": "1.0.0",
+    "description": "zhoukao1",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "",
+        "build": ""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hekai1/zhoukao1.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/hekai1/zhoukao1/issues"
+    },
+    "homepage": "https://github.com/hekai1/zhoukao1#readme"
+}
